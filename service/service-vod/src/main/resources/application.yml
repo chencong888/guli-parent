@@ -1,0 +1,13 @@
+server:
+  port: 8003
+spring:
+  application:
+    name: service-vod
+
+
+
+aliyun:
+  oss:
+    file:
+      keyid: your keyid
+      keysecret: your keysecret
