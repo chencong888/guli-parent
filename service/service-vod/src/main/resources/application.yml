@@ -3,6 +3,9 @@ server:
 spring:
   application:
     name: service-vod
+  profiles:
+    active: dev
+
 
 
 
